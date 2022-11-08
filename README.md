@@ -4,9 +4,9 @@ Single STL File Slicer based on Vulkan GL
 ## General Info
 
 ### History
-1- Author: thebjtfellow
-2- Start: 7 Nov 2022
-3- Inspiration: https://youtube.com/playlist?list=PLFAIgTeqcARkeHm-RimFyKET6IZPxlBSt
+1- Author: thebjtfellow  
+2- Start: 7 Nov 2022  
+3- Inspiration: https://youtube.com/playlist?list=PLFAIgTeqcARkeHm-RimFyKET6IZPxlBSt  
 
 ### Purpose
 
