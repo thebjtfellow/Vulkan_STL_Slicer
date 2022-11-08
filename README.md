@@ -28,8 +28,12 @@ It will support:
 
 ###Output
 
-It will output a stack of 1 bit per pixel BMP files encoded according to the BMP_INFO_HEADER_V4 spec  
-  0 Means no solid bit is present  
-  1 Means a solid bit is present  
+It will output a stack of 1 bit per pixel BMP files encoded according to the BITMAPINFOHEADER spec  
+  0 Means no solid bit is present, Color will appear as white
+  1 Means a solid bit is present, Color will appear as black  
+  biBitCount will be 1  
+  biCompression will be RGB (uncompressed)  
+  The image will be a packed DIB  
+  
   
   
